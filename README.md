@@ -28,7 +28,13 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Project 🚀</h1>
+    <h1>Welcome to My Project 🚀
+    Bmi calculator
+    1.Shone Bhaiya
+    2.Piyush Pahuja
+    3.somya Manager
+    4.Paras Gindal
+    5. Ritika Koshi</h1>
     <button class="btn">Click Me!</button>
 </body>
 </html>
