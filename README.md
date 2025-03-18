@@ -1,54 +1,35 @@
-🚀 My Awesome Project
-A web application that helps users track their daily tasks efficiently with a clean UI and smart reminders.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #3498db;
+        }
+        .btn {
+            background-color: #2ecc71;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+        }
+        .btn:hover {
+            background-color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Project 🚀</h1>
+    <button class="btn">Click Me!</button>
+</body>
+</html>
 
-📌 Features
-✅ Create, update, and delete tasks
-🔔 Smart notifications and reminders
-📊 Analytics dashboard to track productivity
-🛠️ Installation
-Prerequisites
-Node.js (v16+ required)
-MongoDB
-Steps
-Clone the repository:
-
-sh
-Copy
-Edit
-git clone https://github.com/your-username/my-awesome-project.git
-Navigate to the project directory:
-
-sh
-Copy
-Edit
-cd my-awesome-project
-Install dependencies:
-
-sh
-Copy
-Edit
-npm install
-Set up environment variables:
-Rename .env.example to .env and update the values.
-
-Start the development server:
-
-sh
-Copy
-Edit
-npm run dev
-Open http://localhost:3000 in your browser.
-
-🖥️ Usage
-Sign up or log in.
-Add your tasks and set deadlines.
-Get reminders and track progress.
-⚡ Tech Stack
-Frontend: React + Tailwind CSS
-Backend: Node.js + Express
-Database: MongoDB
-🐛 Issues & Contributions
-If you find a bug, report it here.
-Contributions are welcome! Please check our contribution guidelines.
-📜 License
-This project is licensed under the MIT License.
